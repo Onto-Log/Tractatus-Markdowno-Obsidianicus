@@ -1,5 +1,5 @@
 # Tractatus-Markdowno-Obsidianicus
-This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent graph view on Obsidian
+This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian
 
 # Tutorial : 
 Download and unzip the .zip file. 
@@ -38,7 +38,7 @@ https://pbellon.github.io/tractatus-tree/#/
 https://dstrohmaier.com/A-Different-Map-of-the-Tractatus/ 
 (Tractatus as a vectors-representation of meaning)
 
-# Opinion : 
+## Opinion : 
 Even though this project may popularize Wittgenstein's philosophy, I disagree with him on many points as I find issues in his metaphysics. 
 I also disagree with The "Late Wittgenstein", who still has some flaws. If you want to go deeper, see :
 
@@ -48,5 +48,5 @@ I also disagree with The "Late Wittgenstein", who still has some flaws. If you w
     Free Energy Principle and Enactive Inference
 
 # Issues :
-If there is any missing concept or duplicate concepts (I know some of them are really close, but I think in the beginning (from 1. to 3.) I was not quite rigorous.
-
+If you have any suggestion in order to sort out tags or if you think I missed something, send me a message !
+I manually made the tags, so if you have a suggestion to automate the process, I take it !
