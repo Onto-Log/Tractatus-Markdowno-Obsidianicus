@@ -23,19 +23,19 @@ In the future, I would like to automatize the tagging process, as it takes too m
 A big problem with the method I used is that it totally depends on me.
 
 Here are other projects based on the Tractatus :
-https://github.com/shushcat/tractatus-logico-markdownicus 
+## https://github.com/shushcat/tractatus-logico-markdownicus 
 (Tractatus in Markdown, which I took as a basis for this project) 
 
-http://tractatus.lib.uiowa.edu/map/ 
+## http://tractatus.lib.uiowa.edu/map/ 
 (Tractatus as a Train map) 
 
-https://www.xmind.net/m/vA2p/ 
+## https://www.xmind.net/m/vA2p/ 
 (Tractatus as a MindMap) 
 
-https://pbellon.github.io/tractatus-tree/#/ 
+## https://pbellon.github.io/tractatus-tree/#/ 
 (another MindMap) 
 
-https://dstrohmaier.com/A-Different-Map-of-the-Tractatus/ 
+## https://dstrohmaier.com/A-Different-Map-of-the-Tractatus/ 
 (Tractatus as a vectors-representation of meaning)
 
 ## Opinion : 
