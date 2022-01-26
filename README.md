@@ -51,12 +51,14 @@ I also disagree with The "Late Wittgenstein", who still has some flaws. If you w
 If you have any suggestion in order to sort out tags or if you think I missed something, send me a message !
 I manually made the tags, so if you have a suggestion to automate the process, I take it !
 
-# Others :
-Here are some cool projects that link philosophy and "digital humanities" : 
+# Here are some cool projects that link philosophy and "digital humanities" : 
+Spinoza but better :
 https://ethics.spinoza.ca/
+
+TvTropes & Feminism : 
 http://stereotropes.bocoup.com/
 
-Bruno Latour also did something alike, if you want to put it on Obsidian, good luck !
+Bruno Latour made a book that could totally be on Obsidian because of how the structure, so if you are determined and if you like his work... good luck !
 http://modesofexistence.org/
 
 Philpapers Graph view Taxonomy : 
