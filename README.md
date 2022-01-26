@@ -4,6 +4,13 @@
 
 This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian.
 
+# Overview :
+![extract](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus1.png)
+![extract2](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus2.png)
+![extract3](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus3.png)
+![extract4](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus4.png)
+
+
 # Tutorial : 
 Download and unzip the .zip file. 
 Download Obsidian on https://obsidian.md/
