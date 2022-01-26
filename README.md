@@ -7,22 +7,22 @@ Download Obsidian on https://obsidian.md/
 "Open the folder as Vault" in Obsidian
 Navigate freely through the book.
 
-This project was made possible thanks to : https://github.com/shushcat/tractatus-logico-markdownicus (I laughed at the title at first, and it inspired me !)
+This project was made possible thanks to the tractatus logico-markdownicus (I laughed at the title when I discovered it, it also inspired my own title !)
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !
 I put had to break each proposition into markdown notes, plus I added hashtags, so you can have a thematic graph view on Obsidian :) 
 
 # Note : 
 I made this Tractatus Logico-Obsidianicus alone, based on the "Tractatus Markdownicus" (see bellow.) 
-The idea behind this project was to test my skills with Obsidian on a philosophical book. 
-I thought this book was particularly "Obsidianisable" because of its structure.. 
+The idea behind this project was to test my skills with Obsidian on a philosophical book.
+I thought Wittgenstein's Thesis was particularly Obsidian-friendly because of its structure.
 There are other projects like mine on the internet, but they lack tags, which is why my project is singular.
 
 The main issue during this project was to transform Hashtags from the Markdownicus source into Obsidian Notes. 
-I solved it with the Plugin "Note Refactor". It really helped me and saved quite a lot of time. 
+I solved it with the Plugin "Note Refactor" ( https://github.com/lynchjames/note-refactor-obsidian ). It really helped me and saved a lot of time. 
 In the future, I would like to automatize the tagging process, as it takes too much time to make alone. 
-A big problem with the manual method is that it totally depends on what I decide to be a pertinent information.
+A big problem with the method I used is that it totally depends on me.
 
-Here are other projects based on the Tractatus : 
+Here are other projects based on the Tractatus :
 https://github.com/shushcat/tractatus-logico-markdownicus 
 (Tractatus in Markdown, which I took as a basis for this project) 
 
@@ -48,7 +48,7 @@ I also disagree with The "Late Wittgenstein", who still has some flaws. If you w
     Free Energy Principle and Enactive Inference
 
 # Issues :
-I manually made the tags, so if you have a suggestion to automate the process with Natural Language Processing, I take it !
+I manually made tags, so if you have a suggestion to automate the process with Natural Language Processing, I take it !
 If you have any suggestion in order to sort out tags or if you think I missed something, send me a message !
 
 
