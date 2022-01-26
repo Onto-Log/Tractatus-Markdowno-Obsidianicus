@@ -48,8 +48,9 @@ I also disagree with The "Late Wittgenstein", who still has some flaws. If you w
     Free Energy Principle and Enactive Inference
 
 # Issues :
+I manually made the tags, so if you have a suggestion to automate the process with NLP, I take it !
 If you have any suggestion in order to sort out tags or if you think I missed something, send me a message !
-I manually made the tags, so if you have a suggestion to automate the process, I take it !
+
 
 # Here are some cool projects that link philosophy and "digital humanities" : 
 Spinoza but better :
