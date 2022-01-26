@@ -1,5 +1,5 @@
 # Tractatus-Markdowno-Obsidianicus
-This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian
+This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian.
 
 # Tutorial : 
 Download and unzip the .zip file. 
@@ -7,7 +7,7 @@ Download Obsidian on https://obsidian.md/
 "Open the folder as Vault" in Obsidian
 Navigate freely through the book.
 
-This project was made possible thanks to : https://github.com/shushcat/tractatus-logico-markdownicus
+This project was made possible thanks to : https://github.com/shushcat/tractatus-logico-markdownicus (I laughed at the title at first, and it inspired me !)
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !
 I put had to break each proposition into markdown notes, plus I added hashtags, so you can have a thematic graph view on Obsidian :) 
 
