@@ -1,6 +1,6 @@
 # Tractatus-Markdowno-Obsidianicus
-![tractatus0](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/tractatus_obsidian1.png)
 ![tractatus](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/AVT_Ludwig-Wittgenstein_8451.png)
+![tractatus0](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/tractatus_obsidian1.png)
 
 
 This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian.
