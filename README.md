@@ -10,6 +10,7 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 ![extract2](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus2.png)
 ![extract3](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus3.png)
 ![extract4](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus4.png)
+![extract5](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Tractatus0.png)
 
 
 # Tutorial : 
