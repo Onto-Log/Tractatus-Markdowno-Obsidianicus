@@ -1,5 +1,5 @@
 # Tractatus-Markdowno-Obsidianicus
-![tractatus](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/AVT_Ludwig-Wittgenstein_8451.png)
+![tractatus](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/Wittgenstein_Obsidian.png)
 ![tractatus0](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/blob/main/Obsidianicus_images/tractatus_obsidian1.png)
 
 
