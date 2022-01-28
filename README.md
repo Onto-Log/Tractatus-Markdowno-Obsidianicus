@@ -78,7 +78,7 @@ If you have any suggestion in order to sort out tags or if you think I missed so
 (TvTropes & Feminism)
 
 ## http://modesofexistence.org/
-Bruno Latour made a book that could totally be on Obsidian because of how the structure, so if you are determined and if you like his work... good luck !
+Bruno Latour made a book that could totally be on Obsidian because of how it is structured, so if you are determined and if you like his work... good luck !
 
 ## https://valentinlageard.github.io/
 Philpapers Graph view Taxonomy
