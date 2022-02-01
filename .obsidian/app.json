@@ -1,0 +1,18 @@
+{
+  "promptDelete": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

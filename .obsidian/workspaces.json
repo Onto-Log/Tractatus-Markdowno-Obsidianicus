@@ -1,0 +1,143 @@
+{
+  "workspaces": {
+    "TractatusWorkspace": {
+      "main": {
+        "id": "a61f85972cff1567",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b6c8b2d7bdeac41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7e3c086e49b6c284",
+        "type": "split",
+        "children": [
+          {
+            "id": "0bfcb188fa21bee2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec3d974ce3a031",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "953b3066d3d2c678",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "2.013",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1aa3171f5ef4c0f1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "150bebd072a0f4b7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "216afa665328b1a9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "58508150132d4e37",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5de7b8eadb2f562e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 428
+      },
+      "right": {
+        "id": "9f3e3a4738a9601b",
+        "type": "split",
+        "children": [
+          {
+            "id": "3f1f57012e05f707",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "91d0cf89210dc226",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "62ab3ff535aae6e4",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 384,
+        "collapsed": true
+      },
+      "active": "2b6c8b2d7bdeac41"
+    }
+  },
+  "active": "TractatusWorkspace"
+}
