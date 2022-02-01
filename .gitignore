@@ -1,1 +1,3 @@
-.obsidian/plugins
+.obsidian
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
