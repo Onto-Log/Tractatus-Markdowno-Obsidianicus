@@ -16,12 +16,13 @@ Folders help you navigate through propositions, and markdown parent-notes connec
 ![extract6](Obsidianicus_images/TractatusTags.png)  
 You can research tags in Obsidian so it shows you the connections between children-propositions with the same theme accross different parent-propositions.  
 
+## Requirements  
+Download and install Obsidian from the [official website](https://obsidian.md).  
 
-# Tutorial  
-Download and unzip the .zip file.  
-Download Obsidian on https://obsidian.md/  
-"Open the folder as Vault" in Obsidian  
-Navigate freely through the book.  
+## Prepare  
+- Clone this repository, or download it as a zip and unzip it  
+- Open the folder as a Vault from Obsidian  
+- Navigate freely through the book.  
 
 This project was made possible thanks to the tractatus logico-markdownicus (I laughed at the title when I discovered it, it also inspired my own title !)  
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !  
@@ -42,14 +43,14 @@ A big problem with the method I used is that it totally depends on me.
 ## Opinion  
 Even though this project may popularize Wittgenstein's philosophy, I disagree with him on many points as I find issues in his metaphysics.  
 I also disagree with The "Late Wittgenstein", who still has some flaws. If you want to go deeper, see:  
-- https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199588879.001.0001/acprof-9780199588879  
+- Paul Horwich's [Wittgenstein’s Metaphilosophy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199588879.001.0001/acprof-9780199588879).  
 - John Dewey's philosophy, Pragmatisms and Naturalisms  
 - Dual Inheritence Theory in Cultural Evolution  
 - Free Energy Principle and Enactive Inference  
 
-## Issues  
+## Contributing  
 I manually made tags, so if you have a suggestion to automate the process with Natural Language Processing, I take it !  
-If you have any suggestion in order to sort out tags or if you think I missed something, send me a message !  
+If you have any suggestion in order to sort out tags or if you think I missed something, [start an issue](https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus/issues/new/choose) or send me a message !  
 
 ## Here are other projects based on the Tractatus  
 - https://github.com/shushcat/tractatus-logico-markdownicus/  
