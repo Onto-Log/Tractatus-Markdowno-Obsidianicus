@@ -20,6 +20,7 @@ You can research tags in Obsidian so it shows you the connections between childr
 
 ## Requirements  
 Download and install Obsidian from the [official website](https://obsidian.md).  
+Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10.
 
 ## Prepare  
 - Clone this repository, or download it as a zip and unzip it  
