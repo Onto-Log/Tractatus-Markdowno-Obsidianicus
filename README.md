@@ -1,7 +1,7 @@
 # Tractatus-Markdowno-Obsidianicus  
 ![tractatus](Obsidianicus_images/Wittgenstein_Obsidian.png)  
 ![tractatus0](Obsidianicus_images/tractatus_obsidian1.png)  
-
+![extract6](tractatus_canvas_picture_1.png)
 
 This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian.  
 
