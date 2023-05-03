@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a8320534357c69bc","x":-5593,"y":13109,"width":400,"height":400,"type":"file","file":"6. The general form of truth-function is... This is the general form of proposition/6/Tractatus Canvas 6.canvas"},
+		{"id":"dd1e8b0bca4e50b5","x":-5193,"y":13109,"width":400,"height":400,"type":"file","file":"7. Whereof one cannot speak, thereof one must be silent/7/Tractatus Canvas 7.canvas"},
+		{"id":"97db8b33cc58c96c","x":-5993,"y":13109,"width":400,"height":400,"type":"file","file":"5. Propositions are truth-functions of elementary propositions/5/Tractatus Canvas 5.canvas"},
+		{"id":"f6f381e0a8e47269","x":-6393,"y":13109,"width":400,"height":400,"type":"file","file":"4. The thought is the significant proposition/4/Tractatus Canvas 4.canvas"},
+		{"id":"118e66f6ee703862","x":-6393,"y":11337,"width":400,"height":98,"type":"file","file":"_Begin Here_/0. The 7 Propositions alltogether and a note/0. Tractatus Logico-Philosophicus.md"},
+		{"id":"1158a99b9d67cac5","x":-7193,"y":13109,"width":400,"height":400,"type":"file","file":"2. What is the case, the fact, is the existence of atomic facts/2/Tractatus Canvas 2.canvas"},
+		{"id":"00353a4d7f1205e2","x":-6793,"y":13109,"width":400,"height":400,"type":"file","file":"3 The logical picture of the facts is the thought/3/Tractatus Canvas 3.canvas"},
+		{"id":"5a05c78c6ef3ddb3","x":-7593,"y":13109,"width":400,"height":400,"type":"file","file":"1. The world is everything that is the case/1/Tractatus Canvas 1.canvas"},
+		{"id":"bf94645c9809a01f","x":-5487,"y":13981,"width":988,"height":692,"type":"group","label":"7. Whereof one cannot speak..."},
+		{"id":"0b4723e63ccfe34c","x":-5200,"y":14099,"width":400,"height":400,"type":"file","file":"7. Whereof one cannot speak, thereof one must be silent/7/7. Whereof one cannot speak, thereof one must be silent..md"}
+	],
+	"edges":[
+		{"id":"50b77c8ad10eabe0","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"a8320534357c69bc","toSide":"top"},
+		{"id":"d2ec448b28fb631d","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"dd1e8b0bca4e50b5","toSide":"top"},
+		{"id":"f3c0442c7d29a1c9","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"97db8b33cc58c96c","toSide":"top"},
+		{"id":"4933d926e6ea8ef4","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"f6f381e0a8e47269","toSide":"top"},
+		{"id":"b3f3fe3c010549eb","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"5a05c78c6ef3ddb3","toSide":"top"},
+		{"id":"13eef7cd4709300d","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"1158a99b9d67cac5","toSide":"top"},
+		{"id":"24ad29cf3994f972","fromNode":"118e66f6ee703862","fromSide":"bottom","toNode":"00353a4d7f1205e2","toSide":"top"},
+		{"id":"a8a4fe67129e802d","fromNode":"dd1e8b0bca4e50b5","fromSide":"bottom","toNode":"bf94645c9809a01f","toSide":"top"}
+	]
+}
