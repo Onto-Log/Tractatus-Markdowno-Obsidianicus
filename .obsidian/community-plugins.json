@@ -1,16 +1,3 @@
 [
-  "table-editor-obsidian",
-  "obsidian-outliner",
-  "obsidian-mind-map",
-  "markdown-prettifier",
-  "obsidian-embedded-note-titles",
-  "obsidian-tabs",
-  "obsidian-enhancing-mindmap",
-  "note-refactor-obsidian",
-  "darlal-switcher-plus",
-  "obsidian-latex-environments",
-  "obsidian-related-notes-finder",
-  "juggl",
-  "tag-wrangler",
-  "open-vscode"
+  "breadcrumbs"
 ]

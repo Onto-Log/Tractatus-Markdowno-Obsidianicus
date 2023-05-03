@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "78ee1785c3e2164d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e27652e2e6c98e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8f032f995d76642",
+    "type": "split",
+    "children": [
+      {
+        "id": "de76c0f733210476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca94d96b056890d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae2032db63c64583",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333
+  },
+  "right": {
+    "id": "c34dc3120bf02099",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf58758c5bd2f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfa3054e24a32e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2a76ec80c29c417f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b88463819247a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md"
+              }
+            }
+          },
+          {
+            "id": "4e22332300eda23f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f55cb57524f9af2e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "504f4b647c9ac9ca",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7e27652e2e6c98e2",
+  "lastOpenFiles": [
+    "2. What is the case, the fact, is the existence of atomic facts/2.0/2.01/2.011 It is essential to a thing that it can be a constituent part of an atomic fact..md",
+    "4. The thought is the significant proposition/4.0/4.0641 One could say.md",
+    "4. The thought is the significant proposition/4.0/4.0621 That, however, the signs.md",
+    "4. The thought is the significant proposition/4.0/4.0412 For the same reason the idealist explanation of the seeing of spatial relations through spatial spectacles does not do.md",
+    "4. The thought is the significant proposition/4.0/4.0411 If we tried.md",
+    "4. The thought is the significant proposition/4.0/4.0312 The possibility of propositions is based upon the principle of the representation of objects by signs..md",
+    "4. The thought is the significant proposition/4.0/4.0311 One name stands for one thing.md",
+    "4. The thought is the significant proposition/4.0/4.0141 In the fact that there is a general rule by which the musician is able to read the symphony out of the score.md",
+    "4. The thought is the significant proposition/4.0/4.064 Every proposition must already have a sense.md",
+    "4. The thought is the significant proposition/4.0/4.063 An illustration to explain the concept of truth..md"
+  ]
+}
