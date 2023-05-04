@@ -6,6 +6,8 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 
 
 ## Overview  
+Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files. 
+
 ![extract](Obsidianicus_images/Tractatus00.png)  
 ![extract](Obsidianicus_images/Tractatus1.png)  
 ![extract2](Obsidianicus_images/Tractatus2.png)  
