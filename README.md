@@ -2,7 +2,7 @@
 ![tractatus](Obsidianicus_images/Wittgenstein_Obsidian.png)  
 
 
-This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian (see bellow.)
+This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on [Obsidian.md](https://obsidian.md/) (see bellow.)
 
 
 ## Overview  
