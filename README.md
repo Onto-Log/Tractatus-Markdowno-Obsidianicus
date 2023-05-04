@@ -9,7 +9,6 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 ## Overview  
 ![extract](Obsidianicus_images/Tractatus1.png)  
 ![extract2](Obsidianicus_images/Tractatus2.png)  
-
 ![extract4](Obsidianicus_images/Tractatus4.png)  
 Obsidian's Graph view is very useful to find propositions, it also has a research function !  
 ![extract6](Obsidianicus_images/TractatusTags.png)  
