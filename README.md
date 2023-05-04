@@ -14,6 +14,7 @@ You can research tags in Obsidian so it shows you the connections between childr
 
 ![extract6](Obsidianicus_images/tractatus_canvas_picture.png) 
 ![extract7](Obsidianicus_images/tractatus_canvas_picture_1.png)
+
 Now with Canvas, you have a structured version of the Tractatus you can interact with !
 
 ## Requirements  
