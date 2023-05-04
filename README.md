@@ -23,8 +23,8 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 
 ## Prepare  
 - Clone this repository, or download it as a zip and unzip it  
-- Open the folder as a Vault from Obsidian  
-- Navigate freely through the book.  
+- Open the folder as a Vault in Obsidian
+- Navigate freely through the book.
 
 
 ## Update  
