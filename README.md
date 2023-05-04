@@ -6,6 +6,7 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 
 
 ## Overview  
+![extract](Obsidianicus_images/Tractatus00.png)  
 ![extract](Obsidianicus_images/Tractatus1.png)  
 ![extract2](Obsidianicus_images/Tractatus2.png)  
 ![extract4](Obsidianicus_images/Tractatus5.png)  
