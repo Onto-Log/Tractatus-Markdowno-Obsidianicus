@@ -53,7 +53,7 @@ A big problem with the method I used is that it totally depends on me.
 
 ## Opinion  
 Even though this project may popularize Wittgenstein's philosophy, I disagree with the Tractatus on many points.  
-If you want to go deeper0 please read other works from Wittgenstein and also, see:  
+If you want to go deeper about this, please read other works from Wittgenstein and also, see:  
 - Paul Horwich's [Wittgenstein’s Metaphilosophy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199588879.001.0001/acprof-9780199588879).  
 - John Dewey's philosophy, pragmatism and naturalism 
 - Dual Inheritence Theory in Cultural Evolution  
