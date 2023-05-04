@@ -1,7 +1,6 @@
 # Tractatus-Markdowno-Obsidianicus  
 ![tractatus](Obsidianicus_images/Wittgenstein_Obsidian.png)  
-![extract6](Obsidianicus_images/tractatus_canvas_picture.png) 
-![extract7](Obsidianicus_images/tractatus_canvas_picture_1.png)
+
 
 This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian. I also made Canvas, which allows to organize notes visually (see pictures above.)
 
@@ -11,6 +10,10 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 ![extract2](Obsidianicus_images/Tractatus2.png)  
 ![extract4](Obsidianicus_images/Tractatus5.png)  
 You can research tags in Obsidian so it shows you the connections between children-propositions with the same theme accross different propositions.  
+
+![extract6](Obsidianicus_images/tractatus_canvas_picture.png) 
+![extract7](Obsidianicus_images/tractatus_canvas_picture_1.png)
+Now with Canvas, you have a structured version of the Tractatus you can interact with !
 
 ## Requirements  
 Download and install Obsidian from the [official website](https://obsidian.md).  
