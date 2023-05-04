@@ -3,8 +3,7 @@
 ![extract6](Obsidianicus_images/tractatus_canvas_picture.png) 
 ![extract7](Obsidianicus_images/tractatus_canvas_picture_1.png)
 
-This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian. It is now also an ontology, with dependence structure (parent, child, etc.)
-I also made Canvas, which allows to organize notes visually (see pictures above.)
+This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosophicus, with tags and relations between propositions, allowing a coherent Graph View on Obsidian. I also made Canvas, which allows to organize notes visually (see pictures above.)
 
 
 ## Overview  
@@ -31,7 +30,9 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 ## Update  
 - Canvas including all propositions
 - Canvas for each proposition with their childs
-- Ontology with Breadcrumbs plugin !
+- Ontology with Breadcrumbs plugin, which allows relations such as : parent, child, etc.
+- tags are now hidden, you can access them through the right column or in edit mode
+- Internal links are also hidden, as it is redundant with Breadcrumbs 
 
 This project was made possible thanks to the tractatus logico-markdownicus (I laughed at the title when I discovered it, it also inspired my own title !)  
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !  
