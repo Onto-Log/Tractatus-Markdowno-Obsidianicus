@@ -24,6 +24,7 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 ## Prepare  
 - Clone this repository, or download it as a zip and unzip it  
 - Open the folder as a Vault in Obsidian
+- click on the circling arrow to "Refresh Index" in Breadcrumbs (on the top right)
 - Navigate freely through the book.
 
 
