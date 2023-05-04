@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b7367555f3d7bf8",
+            "id": "ca06f3305a3194bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. The general form of truth-function is/6/6. The general form of truth-function is.md",
-                "mode": "source",
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "3.00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b88463819247a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 283.5
   },
   "right": {
     "id": "c34dc3120bf02099",
@@ -80,52 +90,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebfa3054e24a32e8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
             "id": "2a76ec80c29c417f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. The general form of truth-function is/6/6. The general form of truth-function is.md",
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b88463819247a7ac",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "6. The general form of truth-function is/6/6. The general form of truth-function is.md"
-              }
-            }
-          },
-          {
-            "id": "4e22332300eda23f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "6. The general form of truth-function is/6/6. The general form of truth-function is.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,20 +118,47 @@
             }
           },
           {
-            "id": "8349fc6d5b740191",
+            "id": "ebfa3054e24a32e8",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0833b231c53c4a59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b18b7c63d33939fe",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 494.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,34 +170,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9b7367555f3d7bf8",
+  "active": "b8307db5bc4ca4dd",
   "lastOpenFiles": [
-    "6. The general form of truth-function is/6.3/6.3751 For two colours.md",
-    "6. The general form of truth-function is/6.3/6.3631 This process, however, has no logical foundation but only a psychological one..md",
-    "6. The general form of truth-function is/6.3/6.363 The process of induction is the process of assuming the simplest law that can be made to harmonize with our experience..md",
-    "6. The general form of truth-function is/6.3/6.375 As there is only a logical necessity, so there is only a logical impossibility..md",
-    "3 The logical picture of the facts is the thought/3.2/3.202 The simple signs employed in propositions are called names..md",
-    "3 The logical picture of the facts is the thought/3.2/3.26 The name cannot be analysed further by any definition..md",
-    "3 The logical picture of the facts is the thought/3.2/3.23 The postulate of the possibility of the simple signs.md",
-    "3 The logical picture of the facts is the thought/3.1/3.1431 The essential nature of the propositional sign becomes very clear.md",
-    "3 The logical picture of the facts is the thought/3.1/3.143 That the propositional sign is a fact is concealed.md",
-    "3 The logical picture of the facts is the thought/3.1/3.142 Only facts can express a sense, a class of names cannot..md",
-    "3 The logical picture of the facts is the thought/3.1/3.141 The proposition is not a mixture of words (just as the musical theme is not a mixture of tones)..md",
-    "3 The logical picture of the facts is the thought/3.0/3.032 To present in language anything which contradicts logic is as impossible as in geometry to present by its co-ordinates a figure which contradicts the laws of space; or to give the co-ordinates of a point which does not exist..md",
-    "3 The logical picture of the facts is the thought/3.0/3.031 It used to be said that God could create everything, except what was contrary to the laws of logic. The truth is, we could not say of an unlogical world how it would look..md",
-    "3 The logical picture of the facts is the thought/3.0/3.0321 We could present spatially an atomic fact which contradicted the laws of physics, but not one which contradicted the laws of geometry..md",
-    "3 The logical picture of the facts is the thought/3.0/3.05 Only if we could know a priori that a thought is true if its truth was to be recognized from the thought itself (without an object of comparison)..md",
-    "3 The logical picture of the facts is the thought/3.0/3.04 An a priori true thought would be one whose possibility guaranteed its truth..md",
-    "3 The logical picture of the facts is the thought/3.0/3.02 The thought contains the possibility of the state of affairs which it thinks. What is thinkable is also possible..md",
-    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.222 In the agreement or disagreement of its sense with reality, its truth or falsity consists..md",
-    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.2 The picture has the logical form of representation in common with what it pictures..md",
-    "1. The world is everything that is the case/1.1/1.11 The world is determined by the facts, and by these being all the facts..md",
-    "1. The world is everything that is the case/1.1/1.13 The facts in logical space are the world..md",
-    "1. The world is everything that is the case/1.1/1.1 The world is the totality of facts, not of things..md",
-    "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+    "_Begin Here_/0. The 7 Propositions alltogether and a note/Tractatus Canvas.canvas",
+    "3 The logical picture of the facts is the thought/3.0/3.00 (empty).md",
+    "3 The logical picture of the facts is the thought/3.0/3.001 An atomic fact is thinkable---means we can imagine it..md",
+    "3 The logical picture of the facts is the thought/3.0/3.0 (empty).md",
+    "3 The logical picture of the facts is the thought/3.0/3.001 An atomic fact is thinkable.md",
     "6. The general form of truth-function is/6.3/6.34 All propositions, such as the law of causation.md",
-    "6. The general form of truth-function is/6.3/6.343 Mechanics is an attempt to construct.md",
-    "6. The general form of truth-function is/6.3/6.342 And now we see the relative position of logic and mechanics..md",
+    "6. The general form of truth-function is/6.3/6.341 Newtonian mechanics.md",
+    "_Begin Here_/0. The 7 Propositions alltogether and a note/0. Tractatus Logico-Philosophicus.md",
+    "_Begin Here_/0. The 7 Propositions alltogether and a note/Tractatus_Logico_Philosophicus_Text_Structure.png",
+    "2. What is the case, the fact, is the existence of atomic facts/2/2. What is the case, the fact, is the existence of atomic facts..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.2 The picture has the logical form of representation in common with what it pictures..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.202 The picture represents a possible state of affairs in logical space..md",
+    "2539D~1.WHA/2.2/2.2 The picture has the logical form of representation in common with what it pictures..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.22 The picture represents what it represents.md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.221 What the picture represents is its sense..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.21 The picture agrees with reality or not; it is right or wrong, true or false..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.201 The picture depicts reality by representing.md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.22 The picture represents what it represents, independently of its truth or falsehood, through the form of representation..md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.2/2.201 The picture depicts reality by representing a possibility of the existence and non-existence of atomic facts..md",
+    "2539D~1.WHA/2.2/2.225 There is no picture which is a priori true..md",
+    "2539D~1.WHA/2.2/2.224 It cannot be discovered from the picture alone whether it is true or false..md",
+    "2539D~1.WHA/2.2/2.223 In order to discover whether the picture is true or false we must compare it with reality..md",
+    "2539D~1.WHA/2.2/2.222 In the agreement or disagreement of its sense with reality, its truth or falsity consists..md",
+    "2539D~1.WHA/2.2/2.221 What the picture represents is its sense..md",
+    "2539D~1.WHA/2.2/2.22 The picture represents what it represents.md",
+    "2539D~1.WHA/2.2/2.22 The picture represents what it represents, independently of its truth or falsehood, through the form of representation..md",
+    "2539D~1.WHA/2.2/2.21 The picture agrees with reality or not; it is right or wrong, true or false..md",
+    "2539D~1.WHA/2.2",
     "Nouveau dossier/6.5",
     "Nouveau dossier/6.4",
     "Nouveau dossier/6.3",
@@ -209,14 +210,11 @@
     "6. The general form of truth-function is/6/Tractatus Canvas 6.canvas",
     "6. The general form of truth-function is/6.5",
     "6. The general form of truth-function is/6.4",
-    "6. The general form of truth-function is/6.3",
     "6. The general form of truth-function is... This is the general form of proposition/6/Tractatus Canvas 6.canvas",
-    "_Begin Here_/0. The 7 Propositions alltogether and a note/Tractatus_Logico_Philosophicus_Text_Structure.png",
     "Untitled.canvas",
     "5. Propositions are truth-functions of elementary propositions/5/Tractatus Canvas 5.canvas",
     "7. Whereof one cannot speak, thereof one must be silent/7/Tractatus Canvas 7.canvas",
     "1. The world is everything that is the case/1/Tractatus Canvas 1.canvas",
-    "_Begin Here_/0. The 7 Propositions alltogether and a note/Tractatus Canvas.canvas",
     "3 The logical picture of the facts is the thought/3/Tractatus Canvas 3.canvas",
     "4. The thought is the significant proposition/4/Tractatus Canvas 4.canvas"
   ]
