@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "58b4e59a2616b736",
+        "id": "e80f4364e35ee84e",
         "type": "tabs",
         "children": [
           {
@@ -72,6 +72,47 @@
               "type": "outline",
               "state": {
                 "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "729379fc22e6fe84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313a1678508ea295",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946917,
+                  "close": true
+                }
               }
             }
           }
@@ -166,12 +207,14 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8307db5bc4ca4dd",
+  "active": "ca94d96b056890d8",
   "lastOpenFiles": [
+    "1. The world is everything that is the case/1/1. The world is everything that is the case.md",
+    "2. What is the case, the fact, is the existence of atomic facts/2.0/2.01/2.01 An atomic fact is a combination of objects (entities, things)..md",
+    "1. The world is everything that is the case/1.1/1.1 The world is the totality of facts, not of things..md",
     "_Begin Here_/0. The 7 Propositions alltogether and a note/Tractatus Canvas.canvas",
     "3 The logical picture of the facts is the thought/3.0/3.00 (empty).md",
     "3 The logical picture of the facts is the thought/3.0/3.001 An atomic fact is thinkable---means we can imagine it..md",
@@ -197,8 +240,6 @@
     "2539D~1.WHA/2.2/2.222 In the agreement or disagreement of its sense with reality, its truth or falsity consists..md",
     "2539D~1.WHA/2.2/2.221 What the picture represents is its sense..md",
     "2539D~1.WHA/2.2/2.22 The picture represents what it represents.md",
-    "2539D~1.WHA/2.2/2.22 The picture represents what it represents, independently of its truth or falsehood, through the form of representation..md",
-    "2539D~1.WHA/2.2/2.21 The picture agrees with reality or not; it is right or wrong, true or false..md",
     "2539D~1.WHA/2.2",
     "Nouveau dossier/6.5",
     "Nouveau dossier/6.4",

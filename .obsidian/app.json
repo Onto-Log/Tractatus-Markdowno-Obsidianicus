@@ -4,5 +4,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
