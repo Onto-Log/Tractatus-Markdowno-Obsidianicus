@@ -44,8 +44,8 @@ A big problem with the method I used is that it totally depends on me.
 
 
 ## Opinion  
-Even though this project may popularize Wittgenstein's philosophy, I disagree with him on many points as I find issues in his metaphysics.  
-I also disagree with The "Late Wittgenstein", who still has some flaws. If you want to go deeper, see:  
+Even though this project may popularize Wittgenstein's philosophy, I disagree with the Tractatus on many points.  
+If you want to go deeper0 please read other works from Wittgenstein and also, see:  
 - Paul Horwich's [Wittgenstein’s Metaphilosophy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199588879.001.0001/acprof-9780199588879).  
 - John Dewey's philosophy, pragmatism and naturalism 
 - Dual Inheritence Theory in Cultural Evolution  
