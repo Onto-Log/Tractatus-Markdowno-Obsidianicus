@@ -27,6 +27,12 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 - Open the folder as a Vault from Obsidian  
 - Navigate freely through the book.  
 
+
+## Update  
+- Canvas including all propositions
+- Canvas for each proposition with their childs
+- Ontology with Breadcrumbs plugin !
+
 This project was made possible thanks to the tractatus logico-markdownicus (I laughed at the title when I discovered it, it also inspired my own title !)  
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !  
 I put had to break each proposition into markdown notes, plus I added hashtags, so you can have a thematic graph view on Obsidian :)  
@@ -34,7 +40,7 @@ I put had to break each proposition into markdown notes, plus I added hashtags, 
 ## Note  
 I made this Tractatus Logico-Obsidianicus alone, based on the "Tractatus Markdownicus" (see bellow).  
 The idea behind this project was to test my skills with Obsidian on a philosophical book.
-I thought Wittgenstein's Thesis was particularly Obsidian-friendly because of its structure.  
+I thought Wittgenstein's Thesis was particularly Obsidian-friendly because of its structure. I used the plugin [Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) to make an ontology. So it is now possible to view parents notes, child notes, etc.
 There are other projects like mine on the internet, but they lack tags, which is why my project is singular. 
 
 The main issue during this project was to transform Hashtags from the Markdownicus source into Obsidian Notes.  
@@ -84,3 +90,4 @@ Bruno Latour made a book that could totally be on Obsidian because of how it is 
 
 - https://valentinlageard.github.io/  
 Philpapers Graph view Taxonomy  
+
