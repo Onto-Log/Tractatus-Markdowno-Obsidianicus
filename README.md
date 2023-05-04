@@ -9,7 +9,7 @@ This is a modified Markdown version of Wittgenstein's Tractatus Logico-Philosoph
 ## Overview  
 ![extract](Obsidianicus_images/Tractatus1.png)  
 ![extract2](Obsidianicus_images/Tractatus2.png)  
-![extract4](Obsidianicus_images/Tractatus4.png)  
+![extract4](Obsidianicus_images/Tractatus5.png)  
 Obsidian's Graph view is very useful to find propositions, it also has a research function !  
 ![extract6](Obsidianicus_images/TractatusTags.png)  
 You can research tags in Obsidian so it shows you the connections between children-propositions with the same theme accross different parent-propositions.  
