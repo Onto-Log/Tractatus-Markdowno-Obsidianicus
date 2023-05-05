@@ -32,20 +32,20 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 
 ## Update  
 - Canvas including all propositions
-- Canvas for each proposition with their childs
+- Canvas for each proposition with their children
 - Ontology with Breadcrumbs plugin, which allows relations such as : parent, child, etc.
 - tags are now hidden, you can access them through the right column or in edit mode
 - Internal links are also hidden, as it is redundant with Breadcrumbs 
 
-This project was made possible thanks to the tractatus logico-markdownicus (I laughed at the title when I discovered it, it also inspired my own title !)  
+This project was made possible thanks to the Tractatus Logico-Markdownicus. 
 I used the Markdownicus and adapted it for Obsidian.md, therefore, here is the Obsidianicus !  
-I put had to break each proposition into markdown notes, plus I added hashtags, so you can have a thematic graph view on Obsidian :)  
+I had to break each proposition into markdown notes, plus I added hashtags, so we have a thematic graph view on Obsidian.
 
 ## Note  
 I made this Tractatus Logico-Obsidianicus alone, based on the "Tractatus Markdownicus" (see bellow).  
 The idea behind this project was to test my skills with Obsidian on a philosophical book.
 I thought Wittgenstein's Thesis was particularly Obsidian-friendly because of its structure. I used the plugin [Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) to make an ontology. So it is now possible to view parents notes, child notes, etc.
-There are other projects like mine on the internet, but they lack tags, which is why my project is singular. 
+There are other projects like mine on the internet, but they do not have tags neither canvas, which is why my project is singular. 
 
 The main issue during this project was to transform Hashtags from the Markdownicus source into Obsidian Notes.  
 I solved it with the plugin [Note Refactor](https://github.com/lynchjames/note-refactor-obsidian). It really helped me and saved a lot of time.  
