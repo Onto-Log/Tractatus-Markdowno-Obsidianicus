@@ -27,14 +27,14 @@ Please use 7zip or Winrar to unzip the folder if it doesn't work with Windows 10
 ### Computer
 - Clone this repository, or download it as a zip and unzip it  
 - Open the folder as a Vault in Obsidian
-- click on the circling arrow to "Refresh Index" in Breadcrumbs (on the top right)
+- Click on the circling arrow to "Refresh Index" in Breadcrumbs (on the top right)
 - Navigate freely through the book.
 
 ### Mobile
 
--If you are on mobile, use the Desktop mode of your browser, then click on the green button "code" that will appear.
--You can now dowbload the .zip
--download Obsidian on your mobile and open the folder as a vault.
+- If you are on mobile, use the Desktop mode of your browser, then click on the green button "code" that will appear.
+- You can now download the .zip
+- Download Obsidian on your mobile and open the folder as a vault.
 
 
 ## Update  
